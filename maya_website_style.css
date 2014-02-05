@@ -1,0 +1,98 @@
+body {
+	/*background-image: url("blackbg.png");*/
+	background-repeat: repeat;
+	background-color: #FFFFFF;
+	height: 100%;
+}
+	
+h1 {
+	height: 110px;
+	text-align: center;
+	padding: 70px;
+	background-color:white;
+	font:5em "Bodoni MT Poster Compressed";
+	margin: 0 0 0 0;
+}
+
+#bodysection {
+	margin-left: auto;
+	margin-right:auto;
+	padding: 10px;
+	width: 80%;
+	text-align:center;
+}
+
+h3 { text-align: center;}
+
+#all {
+	box-shadow:  0 0px 20px #FFAA88;
+	margin-top: 25px;
+	background-color: #FFFFFF;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -500px;
+	width: 1000px;
+	height: 1500px;
+}
+
+#menu {
+	background-color: #FFAA88;
+	margin: 0px auto;
+}
+
+#header{
+	text-align:center;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+ul {
+
+
+	list-style-type:none;
+	margin:0; 
+
+	padding:6px 0 7px 0;
+
+	align:center;
+}
+ 		
+
+
+#menu ul li 
+{ display:inline;
+ }
+
+ 	
+
+#menu ul li a { 
+
+	width: 295px;
+
+	font-size: 17px;
+
+	line-height: 46px;
+
+	text-align: center;
+
+
+	text-decoration: none;
+
+	color: #884411;
+	padding: 20px;
+}
+ 
+	
+	
+#menu a:hover {
+ 
+	background-color: #052333; 
+	color: white;
+
+}
+
+p{ 
+	color: brown; 
+	padding: 10px;
+}
